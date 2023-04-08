@@ -1,10 +1,10 @@
 <h2>E-COMMERCE JUST WATCHES MERN APP</h2>
 
 <h3>Feel Free Check Our E-COMMERCE JUST WATCHES MERN APP with Razorpay</h3>
-<a href="https://just-watches.netlify.app">Click Me<a/>
+<a href="https://symphonious-heliotrope-eb4f9f.netlify.app/">Click Me<a/>
 <br/>
 <h3>E-COMMERCE JUST WATCHES MERN APP Backend Source Code GitHub Link </h3>
-<a href="https://github.com/KIRUBAHARAN8878M/E-commerce-BE">Source Code<a/>
+<a href="https://github.com/gayathirithavamani/lipstickappBE">Source Code<a/>
 <br/>
 <h3>Register<h3/>
 <img src="./register.png" alt="Pay">
@@ -18,4 +18,3 @@
 <h3>Product<h3/>
 <img src="./product.png" alt="Pay">
 <br/>
-
